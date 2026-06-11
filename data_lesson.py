@@ -14,3 +14,4 @@ df["bonus"]=df["salary"]*0.10
 print("bonus is \n",df)
 df.to_csv("employees.csv",index=False)
 print("saved")
+print(df[df["dep"]=="hr"])
