@@ -1,0 +1,13 @@
+name,age,department,salary,years_experience,performance_score
+John,28,Engineering,45000,3,8.5
+Mary,35,HR,32000,7,7.2
+Peter,42,Engineering,,10,9.1
+Sara,29,hr,28000,2,6.8
+Mike,31,Engineering,55000,5,
+James,38,Sales,38000,8,8.8
+Anna,26,Engineering,42000,2,8.0
+Tom,45,HR,thirty thousand,12,7.0
+Lucy,33,Sales,,6,7.5
+David,29,engineering,48000,4,9.2
+,31,HR,29000,3,6.5
+Emma,27,Sales,35000,2,invalid
